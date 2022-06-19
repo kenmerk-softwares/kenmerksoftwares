@@ -1828,7 +1828,7 @@ font-size: 1.5rem;
   place-items: center;
 }
 
-.typing-demo {
+.typin {
   width: 22ch;
   color: white;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
