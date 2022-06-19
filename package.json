@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "firebase": "^9.8.3"
+  }
+}
