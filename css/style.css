@@ -204,9 +204,9 @@ fieldset {
     width: 100%;
     background: #000000;
     z-index: 999;
-    -webkit-transition: all .3s ease;
-    -moz-transition: all .3s ease;
-    transition: all .3s ease;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
 }
 
 body.loaded #preloader{
