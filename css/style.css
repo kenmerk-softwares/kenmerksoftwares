@@ -202,7 +202,7 @@ fieldset {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #ffffff;
+    background: #000000;
     z-index: 999;
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
@@ -252,7 +252,7 @@ body.loaded #preloader{
     bottom: 15px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #000000;
+    border-top-color: #ffffff;
     -webkit-animation: spin 1.5s linear infinite;
     animation: spin 1.5s linear infinite;
 }
