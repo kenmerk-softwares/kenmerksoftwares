@@ -299,7 +299,7 @@ body.loaded #preloader{
     z-index: 1;
 }
 
-.home-section-background:after {
+/* .home-section-background:after {
     position: absolute;
     background: rgba(0, 0, 0, .7);
     left: 0;
@@ -308,7 +308,7 @@ body.loaded #preloader{
     height: 100%;
     content: "";
     z-index: -1;
-}
+} */
 
 .display-table {
     display: table;
