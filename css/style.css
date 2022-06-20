@@ -1687,8 +1687,8 @@ grid-tempLate-columns: repeat(5, 1fr);
 justify-content:center;
 align-items:center;
 text-align: center;
-grid-gap:1rem;
-padding: 1rem 80px;
+grid-gap:2rem;
+padding: 3rem 80px;
 font-size: 1.2rem;
 }
 .skills-box{
@@ -1777,7 +1777,7 @@ font-size: 1.5rem;
 
 @media screen and (max-width:650px){
  .skills-container{
- grid-tempLate-columns:2fr;
+ grid-tempLate-columns:repeat(2, 1fr);
  padding: 2rem 50px;
  }
 }
@@ -1850,3 +1850,12 @@ font-size: 1.5rem;
     border-color: transparent
   }
 }
+
+
+
+
+
+
+
+
+
