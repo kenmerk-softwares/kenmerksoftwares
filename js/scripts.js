@@ -35,9 +35,9 @@
 		 
         $(window).on('scroll', function () {
             if ($(window).scrollTop() > 100) {
-                $('.header-top-area').addClass('navigation-background');
+          
             } else {
-                $('.header-top-area').removeClass('navigation-background');
+               
             }
         });
 		
